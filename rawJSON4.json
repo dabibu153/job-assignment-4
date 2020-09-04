@@ -1,0 +1,431 @@
+{
+  "ok": true,
+  "members": [
+    {
+      "id": "W012A3CDE",
+      "real_name": "Egon Spengler",
+      "tz": "America/Los_Angeles",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Feb 3 2020 1:33PM",
+          "end_time": "Feb 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 3 2020 1:33PM",
+          "end_time": "Mar 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Mar 26 2020 5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020 5:33PM",
+          "end_time": "May 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sep 1 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 4 2020 8:33AM",
+          "end_time": "Sep 4 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 10 2020 9:33AM",
+          "end_time": "Sep 10 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 13 2020 10:33PM",
+          "end_time": "Sep 13 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 1:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 25 2020 9:33AM",
+          "end_time": "Sep 25 2020 4:02PM"
+        },
+        {
+          "start_time": "Oct 16 2020 5:33PM",
+          "end_time": "Oct 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA4",
+      "real_name": "Glinda Southgood",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Feb 3 2020 1:33PM",
+          "end_time": "Feb 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 3 2020 1:33PM",
+          "end_time": "Mar 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Mar 26 2020 5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020 5:33PM",
+          "end_time": "May 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sep 1 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 4 2020 8:33AM",
+          "end_time": "Sep 4 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 10 2020 9:33AM",
+          "end_time": "Sep 10 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 13 2020 10:33PM",
+          "end_time": "Sep 13 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 1:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 25 2020 9:33AM",
+          "end_time": "Sep 25 2020 4:02PM"
+        },
+        {
+          "start_time": "Oct 16 2020 5:33PM",
+          "end_time": "Oct 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA5",
+      "real_name": "Raiden Brennan",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Feb 3 2020 1:33PM",
+          "end_time": "Feb 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 3 2020 1:33PM",
+          "end_time": "Mar 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Mar 26 2020 5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020 5:33PM",
+          "end_time": "May 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sep 1 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 4 2020 8:33AM",
+          "end_time": "Sep 4 2020 12:02PM"
+        },
+        {
+          "start_time": "Sep 10 2020 9:33AM",
+          "end_time": "Sep 10 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 13 2020 10:33PM",
+          "end_time": "Sep 13 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 1:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 25 2020 9:33AM",
+          "end_time": "Sep 25 2020 4:02PM"
+        },
+        {
+          "start_time": "Oct 16 2020 5:33PM",
+          "end_time": "Oct 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA7",
+      "real_name": "Carmen Oneill",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Feb 3 2020 1:33PM",
+          "end_time": "Feb 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 3 2020 1:33PM",
+          "end_time": "Mar 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Mar 26 2020 5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020 5:33PM",
+          "end_time": "May 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sep 1 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 4 2020 8:33AM",
+          "end_time": "Sep 4 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 10 2020 9:33AM",
+          "end_time": "Sep 10 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 13 2020 10:33PM",
+          "end_time": "Sep 13 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 1:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 25 2020 9:33AM",
+          "end_time": "Sep 25 2020 4:02PM"
+        },
+        {
+          "start_time": "Oct 16 2020 5:33PM",
+          "end_time": "Oct 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA8",
+      "real_name": "Olly Duffy",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Feb 3 2020 1:33PM",
+          "end_time": "Feb 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 3 2020 1:33PM",
+          "end_time": "Mar 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Mar 26 2020 5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020 5:33PM",
+          "end_time": "May 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sep 1 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 4 2020 8:33AM",
+          "end_time": "Sep 4 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 10 2020 9:33AM",
+          "end_time": "Sep 10 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 13 2020 10:33PM",
+          "end_time": "Sep 13 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 1:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 25 2020 9:33AM",
+          "end_time": "Sep 25 2020 4:02PM"
+        },
+        {
+          "start_time": "Oct 16 2020 5:33PM",
+          "end_time": "Oct 16 2020 8:02PM"
+        }
+      ]
+    },
+    {
+      "id": "W07QCRPA9",
+      "real_name": "Imaan Shaw",
+      "tz": "Asia/Kolkata",
+      "activity_periods": [
+        {
+          "start_time": "Feb 1 2020 1:33PM",
+          "end_time": "Feb 1 2020 1:54PM"
+        },
+        {
+          "start_time": "Feb 3 2020 1:33PM",
+          "end_time": "Feb 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 3 2020 1:33PM",
+          "end_time": "Mar 3 2020 1:54PM"
+        },
+        {
+          "start_time": "Mar 1 2020 11:11AM",
+          "end_time": "Mar 1 2020 2:00PM"
+        },
+        {
+          "start_time": "Mar 16 2020 5:33PM",
+          "end_time": "Mar 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Mar 26 2020 5:33PM",
+          "end_time": "Mar 26 2020 8:02PM"
+        },
+        {
+          "start_time": "Apr 16 2020 5:33PM",
+          "end_time": "Apr 16 2020 8:02PM"
+        },
+        {
+          "start_time": "May 16 2020 5:33PM",
+          "end_time": "May 16 2020 8:02PM"
+        },
+        {
+          "start_time": "Sep 1 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 4 2020 8:33AM",
+          "end_time": "Sep 4 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 10 2020 9:33AM",
+          "end_time": "Sep 10 2020 11:02AM"
+        },
+        {
+          "start_time": "Sep 13 2020 10:33PM",
+          "end_time": "Sep 13 2020 11:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 2:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 20 2020 1:33PM",
+          "end_time": "Sep 1 2020 7:02PM"
+        },
+        {
+          "start_time": "Sep 25 2020 9:33AM",
+          "end_time": "Sep 25 2020 4:02PM"
+        },
+        {
+          "start_time": "Oct 16 2020 5:33PM",
+          "end_time": "Oct 16 2020 8:02PM"
+        }
+      ]
+    }
+  ]
+}
